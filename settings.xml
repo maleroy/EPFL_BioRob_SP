@@ -1,0 +1,17 @@
+<settings>
+  <webotsVersion>7.4.3</webotsVersion>
+  <config>../../conf_sample/</config>
+  <distance_max>40.0</distance_max>
+  <duration_max>41.5384615385</duration_max>
+  <rescale_parameters>0</rescale_parameters>
+  <muscle_activation_noise>0</muscle_activation_noise>
+  <launching_gate>2.0</launching_gate>
+  <experiment>fullReflex{start_after_step=1}</experiment>
+  <webotsPath>/home/maleroy/sml/my_webots</webotsPath>
+  <gitbranch>master</gitbranch>
+  <optimizer>pso</optimizer>
+  <parameter_loading_scheme>1</parameter_loading_scheme>
+  <save_for_matlab>0</save_for_matlab>
+  <job_name>|/home/maleroy/sml/data/optimization/tutorial/exp_stagePSO_DSE.xml|pso_1.3-FBL_DSE|PSO|webots|30.0|120.0|65d2d22182d8f9b4a2446ebc8337e299|</job_name>
+  <db_name>pso_1.3-FBL_DSE.2.db</db_name>
+</settings>
